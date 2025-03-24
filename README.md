@@ -1,25 +1,62 @@
 <h1>📚 Personal Reference & Learning Hub</h1>
 
 <p>
-  This repository serves as my personal reference guide and a collection of documentation from my learning journey. 
-  It includes fundamental concepts, best practices, and summaries from various web development topics.
+  This repository serves as my personal reference guide and documentation space for my learning journey.
+  It contains topic-wise PDF notes I’ve created for revision and foundational understanding.
 </p>
 
 <h2>📝 PDF Documentations</h2>
-<p>Below are some of the PDF notes I’ve created for quick reference and revision:</p>
 
 <ul>
-  <li><strong>📄 <a href="#">Ajax Fundamentals - With Project</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">CSS Fundamentals</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">HTML Fundamentals</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">JavaScript Fundamentals</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">Laravel Fundamentals</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">MySQL Fundamentals with XAMPP</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">PHP Fundamentals</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">SCSS Fundamentals</a></strong> — Documentations of my learnings (last week)</li>
-  <li><strong>📄 <a href="#">Vue JS Fundamentals</a></strong> — Documentations of my learnings (last week)</li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/Ajax%20Fundamentals%20-%20With%20Project.pdf" target="_blank">Ajax Fundamentals - With Project.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/CSS%20Fundamentals.pdf" target="_blank">CSS Fundamentals.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/HTML%20Fundamentals.pdf" target="_blank">HTML Fundamentals.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/Java%20Script%20Fundamentals.pdf" target="_blank">Java Script Fundamentals.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/Laravel%20Fundamentals.pdf" target="_blank">Laravel Fundamentals.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/MySQL%20Fundamentals%20with%20XAMPP.pdf" target="_blank">MySQL Fundamentals with XAMPP.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/PHP%20Fundamentals.pdf" target="_blank">PHP Fundamentals.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/SCSS%20Fundamentals.pdf" target="_blank">SCSS Fundamentals.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
+  <li>
+    <strong>📄 <a href="https://github.com/Faizul-Bitto/documentations-of-my-learnings_so_far/blob/main/Vue%20JS%20Fundamentals.pdf" target="_blank">Vue JS Fundamentals.pdf</a></strong><br>
+    Documentations of my learnings<br>
+    Last week
+  </li>
 </ul>
 
 <p>
-  Each PDF is a compact, topic-wise guide created to reinforce concepts through hands-on examples and concise notes.
+  <strong>📘 README.md</strong><br>
+  README.md<br>
+  2 minutes ago
 </p>
